@@ -1,2 +1,0 @@
-# Create a _redirects file in your public/ or build/ folder
-/* /index.html 200
